@@ -85,7 +85,7 @@ export default function TabLayout() {
     },
     {
       name: "Schedule",
-      title: "Schedule",
+      title: "Schedule Medication",
       icon: { focused: "calendar", outline: "calendar-outline" }
     },
     {
